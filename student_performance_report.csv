@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,NumPy_Marks,Pandas_Marks,Data_Analysis_Marks,Attendance_Percent,Total_Marks,Average_Marks,Result,Grade
+STU001,Aarav Sharma,Computer Science,86,78,91,88,92,343.0,85.75,Pass,A
+STU002,Priya Verma,Information Technology,92,89,95,94,96,370.0,92.5,Pass,A+
+STU003,Rohan Singh,Computer Science,67,72,70,75,84,284.0,71.0,Pass,B
+STU004,Ananya Gupta,Data Science,78,85,81,80,91,324.0,81.0,Pass,A
+STU005,Vivek Kumar,Information Technology,55,61,58,64,73,238.0,59.5,Pass,D
+STU006,Sneha Patel,Computer Science,95,93,97,96,98,381.0,95.25,Pass,A+
+STU007,Aditya Mishra,Data Science,42,48,51,45,68,186.0,46.5,Pass,F
+STU008,Kavya Joshi,Information Technology,73,77,75,79,88,304.0,76.0,Pass,B
+STU009,Rahul Yadav,Computer Science,34,39,45,41,60,159.0,39.75,Fail,F
+STU010,Ishita Das,Data Science,88,90,86,92,95,356.0,89.0,Pass,A
+STU011,Karan Mehta,Information Technology,61,66,63,69,78,259.0,64.75,Pass,C
+STU012,Meera Nair,Computer Science,81,84,79,86,93,330.0,82.5,Pass,A
+STU013,Arjun Thakur,Data Science,49,52,47,55,70,203.0,50.75,Pass,D
+STU014,Pooja Sinha,Information Technology,90,87,92,89,97,358.0,89.5,Pass,A
+STU015,Dev Malhotra,Computer Science,76,71,74,78,85,299.0,74.75,Pass,B
+STU016,Simran Kaur,Data Science,64,69,67,72,82,272.0,68.0,Pass,C
+STU017,Nikhil Jain,Information Technology,38,44,40,46,65,168.0,42.0,Fail,F
+STU018,Tanya Roy,Computer Science,84,88,82,90,94,344.0,86.0,Pass,A
+STU019,Manish Kumar,Data Science,71,65,73,68,79,277.0,69.25,Pass,C
+STU020,Diya Kapoor,Information Technology,97,94,96,98,99,385.0,96.25,Pass,A+

@@ -1,0 +1,85 @@
+=================================================================
+       STUDENT PERFORMANCE ANALYTICS SYSTEM
+=================================================================
+
+============================================================================================
+STUDENT PERFORMANCE SUMMARY
+============================================================================================
+Student_ID          Name             Department  Total_Marks  Average_Marks Grade Result  Attendance_Percent
+    STU001  Aarav Sharma       Computer Science        343.0          85.75     A   Pass                  92
+    STU002   Priya Verma Information Technology        370.0          92.50    A+   Pass                  96
+    STU003   Rohan Singh       Computer Science        284.0          71.00     B   Pass                  84
+    STU004  Ananya Gupta           Data Science        324.0          81.00     A   Pass                  91
+    STU005   Vivek Kumar Information Technology        238.0          59.50     D   Pass                  73
+    STU006   Sneha Patel       Computer Science        381.0          95.25    A+   Pass                  98
+    STU007 Aditya Mishra           Data Science        186.0          46.50     F   Pass                  68
+    STU008   Kavya Joshi Information Technology        304.0          76.00     B   Pass                  88
+    STU009   Rahul Yadav       Computer Science        159.0          39.75     F   Fail                  60
+    STU010    Ishita Das           Data Science        356.0          89.00     A   Pass                  95
+    STU011   Karan Mehta Information Technology        259.0          64.75     C   Pass                  78
+    STU012    Meera Nair       Computer Science        330.0          82.50     A   Pass                  93
+    STU013  Arjun Thakur           Data Science        203.0          50.75     D   Pass                  70
+    STU014   Pooja Sinha Information Technology        358.0          89.50     A   Pass                  97
+    STU015  Dev Malhotra       Computer Science        299.0          74.75     B   Pass                  85
+    STU016   Simran Kaur           Data Science        272.0          68.00     C   Pass                  82
+    STU017   Nikhil Jain Information Technology        168.0          42.00     F   Fail                  65
+    STU018     Tanya Roy       Computer Science        344.0          86.00     A   Pass                  94
+    STU019  Manish Kumar           Data Science        277.0          69.25     C   Pass                  79
+    STU020   Diya Kapoor Information Technology        385.0          96.25    A+   Pass                  99
+
+=======================================================
+CLASS PERFORMANCE STATISTICS
+=======================================================
+Total students             : 20
+Class average              : 73.00
+Highest student average    : Diya Kapoor (96.25)
+Lowest student average     : Rahul Yadav (39.75)
+Students passed            : 18
+Students failed            : 2
+Pass percentage            : 90.00%
+Average attendance         : 84.35%
+
+====================================================================
+SUBJECT-WISE PERFORMANCE ANALYSIS
+====================================================================
+            Subject  Average_Marks  Highest_Marks  Lowest_Marks
+       Python_Marks          71.05             97            34
+        NumPy_Marks          72.60             94            39
+       Pandas_Marks          73.10             97            40
+Data_Analysis_Marks          75.25             98            41
+
+Best-performing subject   : Data_Analysis_Marks
+Subject needing attention : Python_Marks
+
+=======================================================
+TOP 5 PERFORMING STUDENTS
+=======================================================
+Student_ID        Name  Average_Marks Grade
+    STU020 Diya Kapoor          96.25    A+
+    STU006 Sneha Patel          95.25    A+
+    STU002 Priya Verma          92.50    A+
+    STU014 Pooja Sinha          89.50     A
+    STU010  Ishita Das          89.00     A
+
+=======================================================
+DEPARTMENT-WISE AVERAGE
+=======================================================
+Department
+Computer Science          76.43
+Information Technology    74.36
+Data Science              67.42
+
+Report saved to: student_performance_report.csv
+Analysis completed successfully.
+
+STDERR:
+Spreadsheet runtime warmup failed during python startup
+Traceback (most recent call last):
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/patches/warm_spreadsheet_runtime_on_startup.py", line 26, in warm_spreadsheet_runtime_on_startup
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 785, in warm_spreadsheet_runtime
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 718, in _warm_feature_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/spreadsheet_warmup.py", line 509, in _warm_drawing_and_image_flows
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/generated/interface/models.py", line 32861, in bring_to_front
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/remote.py", line 764, in __call__
+  File "/tmp/tmp.QlpUkOUI9D/artifact_tool_v2-2.8.66/artifact_tool/rpc/client.py", line 175, in call
+artifact_tool.rpc.client.RemoteError: Element ordering requires an owning element collection.

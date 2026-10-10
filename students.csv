@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,NumPy_Marks,Pandas_Marks,Data_Analysis_Marks,Attendance_Percent
+STU001,Aarav Sharma,Computer Science,86,78,91,88,92
+STU002,Priya Verma,Information Technology,92,89,95,94,96
+STU003,Rohan Singh,Computer Science,67,72,70,75,84
+STU004,Ananya Gupta,Data Science,78,85,81,80,91
+STU005,Vivek Kumar,Information Technology,55,61,58,64,73
+STU006,Sneha Patel,Computer Science,95,93,97,96,98
+STU007,Aditya Mishra,Data Science,42,48,51,45,68
+STU008,Kavya Joshi,Information Technology,73,77,75,79,88
+STU009,Rahul Yadav,Computer Science,34,39,45,41,60
+STU010,Ishita Das,Data Science,88,90,86,92,95
+STU011,Karan Mehta,Information Technology,61,66,63,69,78
+STU012,Meera Nair,Computer Science,81,84,79,86,93
+STU013,Arjun Thakur,Data Science,49,52,47,55,70
+STU014,Pooja Sinha,Information Technology,90,87,92,89,97
+STU015,Dev Malhotra,Computer Science,76,71,74,78,85
+STU016,Simran Kaur,Data Science,64,69,67,72,82
+STU017,Nikhil Jain,Information Technology,38,44,40,46,65
+STU018,Tanya Roy,Computer Science,84,88,82,90,94
+STU019,Manish Kumar,Data Science,71,65,73,68,79
+STU020,Diya Kapoor,Information Technology,97,94,96,98,99
